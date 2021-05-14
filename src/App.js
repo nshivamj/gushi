@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       <HelloWorld />
-      <RenderForm />
+      {/*<RenderForm />*/}
     </div>
   );
 };
